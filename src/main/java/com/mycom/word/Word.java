@@ -52,7 +52,7 @@ public class Word {
     public String toString() {
 
         String slevel = "";
-        for(int i = 0; i < level; i++) slevel = slevel + "*";
+        for(int i = 0; i < level; i++) slevel += "*";
         return String.format("%3s", slevel)
                 + String.format("%15s", word) + "  " + meaning;
     }

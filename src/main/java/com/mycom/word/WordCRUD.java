@@ -20,7 +20,6 @@ public class WordCRUD implements ICRUD{
         System.out.print("뜻 입력:");
         String meaning = s.nextLine();
 
-
         return new Word(0, level, word, meaning);
     }
 
@@ -47,7 +46,7 @@ public class WordCRUD implements ICRUD{
 
     public void listAll(){
         System.out.println("------------------------------");
-        for(int i = 1; i < list.size(); i++) {
+        for(int i = 0; i < list.size(); i++) {
             System.out.print((i+1) + " ");
             System.out.println(list.get(i).toString());
         }
