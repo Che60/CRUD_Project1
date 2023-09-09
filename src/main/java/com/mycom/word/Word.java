@@ -50,7 +50,6 @@ public class Word {
 
     @Override
     public String toString() {
-
         String slevel = "";
         for(int i = 0; i < level; i++) slevel += "*";
         return String.format("%3s", slevel)
