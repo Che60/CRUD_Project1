@@ -1,0 +1,12 @@
+3|pension|연금, 생활 보조금, 수당
+2|incident|사건
+1|alert|알리다,(~에게) 주의를 환기하다
+1|immediately|즉시
+3|administration|행정팀, 행정 직원(들)
+1|wildlife|야생 동물
+2|preservation|보호, 보존
+2|instruction|수업, 교육
+1|relatively|비교적
+3|coordination|조정력, 공동 작용
+1|measure|측정하다, 평가하다
+2|reasonable|적당한, 무리 없는, 온당한
