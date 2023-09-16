@@ -10,3 +10,4 @@
 3|coordination|조정력, 공동 작용
 1|measure|측정하다, 평가하다
 2|reasonable|적당한, 무리 없는, 온당한
+1| runaway|도망가다
