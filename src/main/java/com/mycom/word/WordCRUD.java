@@ -25,6 +25,21 @@ public class WordCRUD implements ICRUD{
         return new Word(0, level, word, meaning);
     }
 
+    @Override
+    public int update(Object obj) {
+        return 0;
+    }
+
+    @Override
+    public int delete(Object obj) {
+        return 0;
+    }
+
+    @Override
+    public void selectOne(int id) {
+
+    }
+
     public void addItem(){
         Word one = (Word)add();
         list.add(one);
